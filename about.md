@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to my site v4, started from PHP4 -> Wordpress -> Ruby Radiant now the Jekyll
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I`m currently working at Bigcommerce Sydney, as a FullStack Software Engineer doing Ruby and other thing like PHP, Golang
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I like science fiction, backend coding, coffee, solving problems, video games, GOOD video games, jokes, gifs, memes, fishing, soccer
+
+If you want to say Hi, or discussing any good science fiction movies / TV series, wondering who is the best Doctor? or why Firefly got axed by Fox? or argue with me, why Jruby why not MRI? which one is better Messi or Ronaldo? You can send me an email
+
+If you like what I do or wondering what I do for living, please check my resume on LinkedIn, and check my Github repos
