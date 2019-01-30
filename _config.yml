@@ -10,3 +10,6 @@ linkedin_username:  wchainy
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-json-feed

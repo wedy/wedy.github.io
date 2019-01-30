@@ -1,0 +1,31 @@
+{
+  "issuer": "https://gadgetmedia.okta.com",
+  "authorization_endpoint": "https://gadgetmedia.okta.com/oauth2/v1/authorize",
+  "token_endpoint": "https://gadgetmedia.okta.com/oauth2/v1/token",
+  "response_types_supported": [
+    "code",
+    "id_token",
+    "code id_token",
+    "code token",
+    "id_token token",
+    "code id_token token"
+  ],
+  "grant_types_supported": [
+    "authorization_code",
+    "implicit",
+    "refresh_token",
+    "password"
+  ],
+  "scopes_supported": [
+    "openid",
+    "email",
+    "profile",
+    "address",
+    "phone",
+    "offline_access",
+    "groups"
+  ],
+  "code_challenge_methods_supported": [
+    "S256"
+  ]
+}
